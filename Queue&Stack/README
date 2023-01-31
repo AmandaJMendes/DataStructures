@@ -1,0 +1,17 @@
+Amanda Jorge Mendes (149344)
+
+DESCRIÇÃO DOS ARQUIVOS
+
+-Cqueue.py: Implementação de uma fila por contiguidade (utilizada pelo sort.py e pelo main.py)
+
+-Cstack.py: Implementação de uma pilha por contiguidade (utilizada pelo sort.py)
+
+-Lqueue.py: Implementação de uma fila encadeada (utilizada pelo sort.py e pelo main.py)
+
+-Lstack.py: Implementação de uma pilha encadeada (utilizada pelo sort.py) 
+
+-main.py: Rotina para teste das filas (contiguidade e encadeada)
+
+-node.py: Implementação da classe de nó (utilizada pelas estruturas encadeadas)
+
+-sort.py: Implementação da função que ordena uma fila usando duas pilhas e rotina de teste para essa função.
